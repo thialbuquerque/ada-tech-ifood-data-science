@@ -1,0 +1,66 @@
+[
+    {
+        "Restaurante": "faz bem  casa vegana",
+        "Localizacao": {
+            "Latitude": "-23.550520",
+            "Longitude": "-46.633308"
+        },
+        "Contato": "6182354355",
+        "Pedidos Realizados": "15",
+        "Valor Total em Vendas": "716.5500000000001",
+        "Cardapio": [
+            {
+                "arroz": "15",
+                "feijoada marroquina": "47.77"
+            }
+        ]
+    },
+    {
+        "Restaurante": "apetit",
+        "Localizacao": {
+            "Latitude": "-23.550843",
+            "Longitude": "-46.621865"
+        },
+        "Contato": "6189647511",
+        "Pedidos Realizados": "54",
+        "Valor Total em Vendas": "688.5",
+        "Cardapio": [
+            {
+                "coxinha de jaca": "12.75",
+                "bolinho de grao de bico": "15"
+            }
+        ]
+    },
+    {
+        "Restaurante": "sunugal",
+        "Localizacao": {
+            "Latitude": "-23.562420",
+            "Longitude": "-46.626937"
+        },
+        "Contato": "61838135",
+        "Pedidos Realizados": "5",
+        "Valor Total em Vendas": "235.0",
+        "Cardapio": [
+            {
+                "mhukib": "47",
+                "tubinde": "51.65"
+            }
+        ]
+    },
+    {
+        "Restaurante": "novo fog\u00e3o",
+        "Localizacao": {
+            "Latitude": "-23.600520",
+            "Longitude": "-46.653308"
+        },
+        "Contato": "6185433546",
+        "Pedidos Realizados": "0",
+        "Valor Total em Vendas": "0",
+        "Cardapio": [
+            {
+                "feij\u00e3o": "16",
+                "gr\u00e3o de bico": "25"
+            }
+        ]
+    }
+]
